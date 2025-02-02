@@ -1,0 +1,31 @@
+{
+  "chart": {
+    "title": "Agricultural value added per worker",
+    "subtitle": "Agricultural [value added per worker](#dod:valueaddedperworker) is calculated by dividing the amount of economic value generated from farming, forestry and fishing by the number of people that work in these sectors. This data is expressed in US dollars. It is adjusted for inflation but does not account for differences in the cost of living between countries.",
+    "note": "Data is expressed in constant 2015 US$.",
+    "citation": "Multiple sources compiled by World Bank (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/agriculture-value-added-per-worker-wdi?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)": {
+      "titleShort": "Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",
+      "titleLong": "Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)",
+      "descriptionKey": [],
+      "unit": "",
+      "timespan": "1991-2019",
+      "type": "Numeric",
+      "owidVariableId": 905428,
+      "shortName": "nv_agr_empl_kd",
+      "lastUpdated": "2024-05-20",
+      "nextUpdate": "2025-05-20",
+      "citationShort": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data",
+      "citationLong": "Multiple sources compiled by World Bank (2024) – processed by Our World in Data. “Agriculture, forestry, and fishing, value added per worker (constant 2015 US$)” [dataset]. World Bank based on data from multiple sources, “World Development Indicators” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/905428.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-01-13",
+  "activeFilters": {}
+}
